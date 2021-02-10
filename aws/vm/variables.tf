@@ -1,13 +1,13 @@
 variable "region" {
-  default = "us-west-1"
+  default = "us-east-1"
 }
 
 variable "az" {
-  default = "us-west-1a"
+  default = "us-east-1a"
 }
 
 variable "ami" {
-  default = "ami-08d70e59c07c61a3a"
+  default = "ami-0d6621c01e8c2de2c"
 }
 
 variable "instance_type" {
